@@ -137,7 +137,7 @@ Both norm checks should be approximately zero, allowing for small numerical diff
 
 **Thank you for reading!**
 
-To see the MATLAB program for Programming Assignment 5, click this link: 
+To see the MATLAB program for Programming Assignment 5, click this link: https://github.com/johnmatthewbacual-ECE/ECE2112_PA5/blob/6805f22ad502bf0b901cc4237949d3cc2819bef6/Bacual_PA5.m
 
 README file Version History:
 
